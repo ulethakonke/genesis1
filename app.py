@@ -1,5 +1,5 @@
 import streamlit as st
-from compress import compress_image
+from compress_v2 import compress_2_image
 from decompress import decompress_image
 from pathlib import Path
 import tempfile
